@@ -1,2 +1,2 @@
 # SmoSounds
-Audio files for Smoosic playback
+separate repository for sound samples from Smoosic
