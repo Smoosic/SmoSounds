@@ -1,0 +1,24 @@
+{
+  "name": "smosounds",
+  "version": "1.0.0",
+  "description": "Sound library for Smoosic music notation software",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "convert": "node tools/convertOggToBase64.js"
+  },
+  "keywords": [
+    "music",
+    "audio",
+    "sounds",
+    "notation",
+    "smoosic"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
